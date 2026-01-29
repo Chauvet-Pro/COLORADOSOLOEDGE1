@@ -1,4 +1,4 @@
-# COLORADOSOLOEDGE1
+# COLORado Solo Edge 1
 
 ## Software Versions
 
